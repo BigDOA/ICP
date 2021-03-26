@@ -21,7 +21,7 @@ int main()
    
     for (int i =0;i<a;i++){
         for (int j=0;j<a;j++){
-            matrix[i][j]=1+(rand() %1000);
+            matrix[i][j]=1+(rand() %2000);
             
         }
     }
