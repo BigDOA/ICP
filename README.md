@@ -1,2 +1,2 @@
 # ICP
-Jus Curious
+Assignments from a course I took Intermediate Computer Programming
